@@ -1,5 +1,5 @@
 # windowstorrent
-https://dogkins.github.io/windowstorrent.html/
+https://dogkins.github.io/windowstorrent/
 ---
 permalink:/windowstorrent.html
 ---
